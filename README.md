@@ -1,10 +1,10 @@
 # Stock-Market-Prediction-and-Analysis
-Stock Market Analysis deployed on Heroku.
+Stock Market Analysis.
 
-The web page is deployed at :
+Description 
+1. Predicted price of Apple Stocks 
+2. Carried out normalozation and standardization of data
+3. Implemented LSTM with sigmoid activation function
+4. Reduced rmse loss to 9.83
+5. Visualized data using Matplotlib
 
-This web app is an extension to the project of Stock Market Prediction and Analysis where instead of having to use matplotlib in the project, I have created a web app for the visulizations of stocks date wise.
-
-Inputs: Name of stock Date range
-
-The web app was developed using : streamlit pandas numpy scikit-learn pickle yfinance - ticker: Yahoo finance market data downloader
